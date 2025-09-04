@@ -20,4 +20,5 @@ EJERCICIO 3:
 ![](ejercicio3/imagen_2025-09-03_195150606.png)
 ![](ejercicio3/imagen_2025-09-03_195201334.png)
 ![](ejercicio3/imagen_2025-09-03_195613337.png)
+![](ejercicio3/imagen_2025-09-03_201042482.png)
 ![](ejercicio3/imagen_2025-09-03_195555908.png)
